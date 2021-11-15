@@ -6,7 +6,8 @@
 
 ## Overview
 This code was used to develop the 30 meter estimated floodplain for the conterminous United States as described in:
-Woznicki, S. A., Baynes, J., Panlasigui, S., Mehaffey, M., & Neale, A. (2019). *Development of a spatially complete floodplain map of the conterminous United States using random forest*. Science of the total environment, 647, 942-953.
+Woznicki, S. A., Baynes, J., Panlasigui, S., Mehaffey, M., & Neale, A. (2019). *Development of a spatially complete floodplain map of the conterminous United States using random forest*. Science of the total environment, 647, 942-953. [https://doi.org/10.1016/j.scitotenv.2018.07.353](https://doi.org/10.1016/j.scitotenv.2018.07.353).
+
 
 
 ## Contact
